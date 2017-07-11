@@ -1,1 +1,1 @@
-# minor-weeklyNerdArticles 
+# blog weekly nerd
