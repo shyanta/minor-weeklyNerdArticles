@@ -1,6 +1,6 @@
 # Why sketch noting is important for everyone, even the morons who can’t draw.
 
-I can tell you first handed that I’m a very bad drawer. I mean, I try, I really do, but it’s just to god damn hard. And I believe that there are more people like me, people who think “I’m a front-ender, why do I need to sketch”. Give me a picture and I can redraw it reasonably, but tell me to draw a dog, without an example, I’m just the worst.
+I can tell you first handed that I’m a very bad drawer. I mean, I try, I really do, but it’s just to god damn hard. And I believe that there are more people like me, people who think *“I’m a front-ender, why do I need to sketch”*. Give me a picture and I can redraw it reasonably, but tell me to draw a dog, without an example, I’m just the worst.
 
 Now, in a college, my teacher Justus Sturkenboom explained why sketchnoting is really important. First, if you have a college, you want to write down your notes. You can either choose to write down a lot of text, or you can write down text with small drawings (or sketches). When you look back at your notes, I can tell you, it’s a lot more fun to watch the text with sketches, than the text without the sketches.
 
