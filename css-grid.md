@@ -14,7 +14,7 @@ With grid, you can create a playful layout, where we now often use a layout libr
  
 ## A quick start: How does CSS-grid work?
 To start up the CSS-grid. You `display: grid` the container of the items you want to place in grid layout. With the following lines, you can tell the container how many rows and columns you want.
-```
+```CSS
 grid-template-columns: 20% 20% 20% 20% 20%;
 grid-template-rows: 20% 20% 20% 20% 20%;
 ```
@@ -24,7 +24,7 @@ This makes a layout of five by five. You can place each child inside this contai
 ![Grid layout](/images/gridEmpty.jpg)
 
 Also, you can template some areas, say your header has to take in 5 columns and 2 rows. You can set this to the area ‘header’.
-```
+```CSS
 grid-template-areas:
     "header header header header header"
     "header header header header header"
@@ -70,10 +70,10 @@ The placement of the container can be done with the following properties.
     `grid-gap: <grid-row-gap> <grid-column-gap>;`
 
 ## So, why should this be supported everywhere?
-As you can see, grid is just ** awesome. You can do some much with it. It works very nice, your site has a clean and fixed look. The appearance is just amazing.
-However, only the newest browsers support it. For now it’s supported for 65% and with prefixes for 70%. This is a lot, but you should remember that a lot of people still use Internet Explorer. And sadly the support on IE or Firefox is very bad. You can make your site with grid, but you have to write a completely different piece of code, to make it look just as nice on the other browsers. Because this will take a lot of time, a lot of people don’t think it’s worthy to even try grid. Which is very sad, because it’s such a nice new feature of CSS. I think, if other browsers will support grid better, more people will use it on their website. And that is such a big improvement.<sup>4: caniuse.com</sup>
+As you can see, grid is just ** awesome. You can do some much with it. It works very nice; your site has a clean and fixed look. The appearance is just amazing.
+However, only the newest browsers support it. For now, it’s supported for 65% and with prefixes for 70%. This is a lot, but you should remember that a lot of people still use Internet Explorer. And sadly, the support on IE or Firefox is very bad. You can make your site with grid, but you have to write a completely different piece of code, to make it look just as nice on the other browsers. Because this will take a lot of time, a lot of people don’t think it’s worthy to even try grid. Which is very sad, because it’s such a nice new feature of CSS. I think, if other browsers will support grid better, more people will use it on their website. And that is such a big improvement.<sup>4: caniuse.com</sup>
 
-So, let’s take a vote for it, start a petition or something. We’ve got to fight for grid. Because it’s just so damn awesome
+So, let’s take a vote for it, start a petition or something. We’ve got to fight for grid. Because it’s just so god damn awesome.
 
 ## Sources
 1.	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
