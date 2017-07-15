@@ -6,6 +6,8 @@ I wrote 5 articles about some of the topic that were discussed in the talks, or 
 -   [Article 1: Why sketch noting is important for everyone, even the morons who can’t draw](/sketchNoting.md)
 -   [Article 2: An introduction to git](/introductionToGit.md)
 -   [Article 3: CSS-grid, why every browser should support it](/css-grid.md)
+-   [Article 4: The history of Node JS](/nodejs.md)
+-   [Article 5: Why your site has to be compatible with older browsers](/oldBrowsers.md)
 ## #1 Stephan Hay (Catawiki) - Ux ?= FeD
 Stephan Hay was the first talk we got. This was a Q&A. Student had very interesting questions and Stephan gave really good answers.
 ![](/images/sketches/1.1.jpg)
